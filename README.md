@@ -9,5 +9,5 @@
 - `Learn` at community f8: [learn how to create a view shop](https://vominhtai.tk/)
 - `Practice` create a website watch shop (using html css js) : [http://watchluxury.cf/](http://watchluxury.cf/)
 - `Learn React` at udemy `feature search`: [https://minhtaivo235.github.io/Monsters-rolodex/](https://minhtaivo235.github.io/Monsters-rolodex/)
-- `Learn` how to create a website e-comerce (React) : [https://minhtaivo235.github.io/react-e-comerce/](https://minhtaivo235.github.io/react-e-comerce/)
+- `Learn React` how to create a website e-comerce: [https://github.com/minhtaivo235/react-e-comerce](https://github.com/minhtaivo235/react-e-comerce)
 
