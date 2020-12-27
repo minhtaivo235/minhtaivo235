@@ -1,16 +1,13 @@
-### Hi there 👋
+# Vo Minh Tai - Web Developer
 
-<!--
-**minhtaivo235/minhtaivo235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Open and friendly.
+- Like to learn new things, especially things related to Frontend.
+- Enjoy learning and sharing with everyone ❤
 
-Here are some ideas to get you started:
+## Learn and practice <a href="https://github.com/minhtaivo235"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `Learn` at community f8: [learn how to create a view shop](https://vominhtai.tk/)
+- `Practice` create a website watch shop (using html css js) : [http://watchluxury.cf/](http://watchluxury.cf/)
+- `Learn React` at udemy `feature search`: [https://minhtaivo235.github.io/Monsters-rolodex/](https://minhtaivo235.github.io/Monsters-rolodex/)
+- `Learn` how to create a website e-comerce (React) : [https://minhtaivo235.github.io/react-e-comerce/](https://minhtaivo235.github.io/react-e-comerce/)
+
